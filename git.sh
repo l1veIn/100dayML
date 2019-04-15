@@ -1,5 +1,5 @@
 
-message=`date +%Y-%m-%d`' fromWinBy1258'
+message=`date +%Y-%m-%d`' fromMacBy1258'
 # echo "$message"
 git add .
 git commit -m "$message"
